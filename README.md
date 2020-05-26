@@ -14,6 +14,7 @@ UI design link(made by Anastasia on dribbble) : https://dribbble.com/shots/11433
 Fruit image source(s):http://www.pngmart.com/
                       https://duckduckgo.in/
 
+I am a Learning Mobile Developer so there might be some bugs so if you have a bug fix or provide clearner code then you are very much appriciated :D
 
 
 ## Getting Started in Flutter
